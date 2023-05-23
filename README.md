@@ -7,5 +7,5 @@
 Hello Im Nzl, learning developer.
 
 Selfbot: https://iSocietyWeb.xyz/
-Discord: Cpt ИzlHub#0001
+Discord: Dr. Gozo#0001
 ```
